@@ -9,4 +9,4 @@
 `cd client/frontend`
 `bun run dev`
 
-Then surf to `http://localhost:5173/`
+Then surf to http://localhost:5173/
